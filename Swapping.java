@@ -24,7 +24,11 @@ public static void main(String[] args) {
  * a=b-a    a=15,b=25
  * b=b-a  b10 a=15
  * 
- * 
+ * a=10
+ * b=20
+ * a=a*b      10*20=200 b=20 a=200
+ * b=a/b       b=10 a=200
+ * a=a/b       a=20 b=10
  * 
  * 
  * 
